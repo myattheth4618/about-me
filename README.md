@@ -19,22 +19,22 @@ Schedule
 8.Spanish
 
 Kpop artists I love:
-Cravity
-TXT
-Enhypen
-WEi
-Onf
-Verivery
-BTS
-Blackpink
-Aespa
-The Boyz
-Woodz
+Cravity,
+TXT,
+Enhypen,
+WEi,
+Onf,
+Verivery,
+BTS,
+Blackpink,
+Aespa,
+The Boyz,
+Woodz,
 And More
 
 Current obsessions:
-Murder Mystery books
-Documentaries
-Collecting Kpop Albums
-Fashion
+Murder Mystery books,
+Documentaries,
+Collecting Kpop Albums,
+Fashion,
 Tiktok
