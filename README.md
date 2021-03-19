@@ -2,10 +2,10 @@
 
 #### Myat Thet Htut
 
-## myattheth4618@hstat.org
+##### myattheth4618@hstat.org
 
-High School of Teleommunications Arts and Technology (HSTAT)  
-Myat is sixteen years old. Currently a Sophomore in HSTAT. Also in SEP, software engineering program. Likes Kpop, Kmedia, different cultures and traditions, food, music, watching youtube, photography, mystery. Moved to the United States in 7th grade from Myanmar. 
+###### High School of Teleommunications Arts and Technology (HSTAT)  
+###### Myat is sixteen years old. Currently a Sophomore in HSTAT. Also in SEP, software engineering program. Likes Kpop, Kmedia, different cultures and traditions, food, music, watching youtube, photography, mystery. Moved to the United States in 7th grade from Myanmar. 
 ---
 * Schedule
 1. Global History
