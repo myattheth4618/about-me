@@ -19,15 +19,15 @@ Myat is sixteen years old. Currently a Sophomore in HSTAT. Also in SEP, software
 --- 
 * Kpop artists I love:
 [**Cravity**](https://kprofiles.com/cravity-members-profile/),
-**TXT**,
-**Enhypen**,
+[**TXT**](https://kprofiles.com/txt-member-profile-facts/),
+[**Enhypen**](https://kprofiles.com/enhypen-profile-facts/),
 WEi,
-**Onf**,
+[**Onf**](https://kprofiles.com/onf-members-profile/),
 Verivery,
 BTS,
 Blackpink,
 Aespa,
-**The Boyz**,
+[**The Boyz**](https://kprofiles.com/boyz-members-profile/),
 Woodz,
 And More
 ---
