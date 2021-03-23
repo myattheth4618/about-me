@@ -39,3 +39,5 @@ And More
 * _Collecting Kpop Albums_,
 * _Fashion_,
 * Learning Korean
+
+Reviewed by Grace
